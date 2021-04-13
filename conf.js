@@ -1,5 +1,5 @@
 // An example configuration file.
-var HtmlReporter = require('protractor-beautiful-reporter');
+//var HtmlReporter = require('protractor-beautiful-reporter');
 var browserConfig = require('./browserConfig');
 
 exports.config = {
