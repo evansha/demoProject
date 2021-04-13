@@ -4,6 +4,7 @@
   "description": "test GlobalSQA page",
   "main": "Testcases.js",
   "scripts": {
+    "update": "webdriver-manager update"
   },
   "keywords": ["protractor"],
 

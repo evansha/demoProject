@@ -1,6 +1,7 @@
 let Banking_Page = require('../../../Page objects/Smallprojects_Page/Banking_Page.js');
 let util = require('../../../TestUtils');
 let tc = require('../../../TestConstants');
+const { browser } = require('protractor');
 
 describe("XYZ_Bank_Managerlogin_Functionalitycheck",() =>
 {
@@ -18,6 +19,7 @@ describe("XYZ_Bank_Managerlogin_Functionalitycheck",() =>
        util.until(Banking_Page.manager);
        //Bank_manager LoginButton Check
         Banking_Page.manager.click();
+        browser.sleep(3000);
     })
     it("Managers_addCustomers_functionality_Check", () => 
     {
