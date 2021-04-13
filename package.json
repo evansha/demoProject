@@ -6,8 +6,9 @@
   "scripts": {
     "update": "webdriver-manager update"
   },
-  "keywords": ["protractor"],
-
+  "keywords": [
+    "protractor"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/evansha/Project.git"

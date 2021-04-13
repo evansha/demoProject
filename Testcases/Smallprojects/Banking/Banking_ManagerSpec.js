@@ -41,7 +41,7 @@ describe("XYZ_Bank_Managerlogin_Functionalitycheck",() =>
         //Add Customer
         Banking_Page.add_customer.click();
 
-        //alert msg
+        //alert message
         browser.driver.switchTo().alert().accept();
     })
 
