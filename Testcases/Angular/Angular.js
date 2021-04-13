@@ -1,3 +1,4 @@
+const { browser } = require('protractor');
 let Angular = require('../../Page Objects/Angular_Page');
 describe("AngularPage_assertion",() =>
 {
@@ -9,6 +10,7 @@ describe("AngularPage_assertion",() =>
 
 
       it("Navigation-Bar Assert",() =>{
+        browser.sleep(3000);
         expect((Angular.feature).getText()).toEqual('FEATURES');
         expect((Angular.Docs).getText()).toEqual('DOCS');
         expect((Angular.Resources).getText()).toEqual('RESOURCES');

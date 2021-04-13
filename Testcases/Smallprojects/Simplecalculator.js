@@ -1,6 +1,7 @@
 let simple_calculator = require('../../Page Objects/Smallprojects_Page/SimpleCalculator_Page.js');
 let util = require('../../Testutils');
 let tc = require('../../TestConstants');
+const { browser } = require('protractor');
 
 describe("Simple Calculator Assertion",function()
 {
@@ -48,11 +49,13 @@ describe("Simple Calculator Assertion",function()
           //increment b
           simple_calculator.increase_b.click();
           //Operation as subtraction
+          browser.sleep(3000);
           simple_calculator.operations.sendKeys('-');
           expect(simple_calculator.result.getText()).toEqual("10 - 6 = 4");
           util.until(simple_calculator.increase_a);
           simple_calculator.increase_a.click();
           util.until(simple_calculator.operations);
+          browser.sleep(3000);
           simple_calculator.operations.sendKeys('+');
           browser.wait(function ()
           {
