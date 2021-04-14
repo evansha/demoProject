@@ -6,20 +6,6 @@ describe("AngularPage_assertion",() =>
    beforeEach(() =>{
        browser.get('https://angular.io/');
       browser.manage().window().maximize();
-      browser.sleep(3000);
-      })
-
-
-      it("Navigation-Bar Assert",() =>{
-        util.until(Angular.feature);
-        browser.sleep(3000);
-        expect((Angular.feature).getText()).toEqual('FEATURES');
-        util.until(Angular.Docs);
-        expect((Angular.Docs).getText()).toEqual('DOCS');
-        util.until(Angular.Resources);
-        expect((Angular.Resources).getText()).toEqual('RESOURCES');
-        util.until(Angular.Events);
-        expect((Angular.Events).getText()).toEqual('EVENTS');
       })
 
       it("Get Titles" , () =>{
