@@ -1,3 +1,4 @@
+const { browser } = require('protractor');
 let Angular = require('../../Page Objects/Angular_Page');
 let util = require('../../TestUtils');
 describe("AngularPage_assertion",() =>
@@ -11,6 +12,7 @@ describe("AngularPage_assertion",() =>
 
       it("Navigation-Bar Assert",() =>{
         util.until(Angular.feature);
+        browser.sleep(3000);
         expect((Angular.feature).getText()).toEqual('FEATURES');
         util.until(Angular.Docs);
         expect((Angular.Docs).getText()).toEqual('DOCS');
