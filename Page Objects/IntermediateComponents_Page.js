@@ -38,14 +38,14 @@ let IntermediateComponents = function()
     //Login credentials
     this.username = element(by.css("#username"));
     this.password = element(by.css("#password"));
-    this.Login = element(by.css("[type='submit']"));
+    this.Login = element(by.css('.btn','.btn-primary'));
     this.message = element(by.binding("flash.message"));
 
     //Register user
     this.register = element(by.css("[class='btn btn-link']"));
     this.first_name = element(by.css("#firstName"));
     this.last_name = element(by.css("#Text1"));
-    this.register_user = element(by.css("[type='submit']"));
+    this.register_user = element(by.css("button[type='submit']"));
     this.LoggedIn = element(by.css(".ng-scope>p:nth-child(2)"));
     this.Logout = element(by.css(".ng-scope:nth-child(6) >a"));
 

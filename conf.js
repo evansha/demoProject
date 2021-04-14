@@ -2,8 +2,9 @@
 var HtmlReporter = require('protractor-beautiful-reporter');
 var browserConfig = require('./browserConfig');
 
-exports.config = {
-//  directConnect : true,
+exports.config = 
+{
+  directConnect : true,
 
 //Running in chrome browser
 capabilities: browserConfig['chrome'],
@@ -13,6 +14,7 @@ capabilities: browserConfig['chrome'],
 framework: 'jasmine',
 
 useAllAngular2AppRoots: true,
+
 specs:  ['Testcases/BasicComponents/**.*js','Testcases/IntermediateComponents/**.*js','Testcases/Smallprojects/**.*js','Testcases/Smallprojects/Banking/**.*js','Testcases/Angular/**.*js','Testcases/ProtoCommerce/**.*js'],
 
 allScriptsTimeout: 1000000,

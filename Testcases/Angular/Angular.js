@@ -1,5 +1,5 @@
-const { browser } = require('protractor');
 let Angular = require('../../Page Objects/Angular_Page');
+let util = require('../../TestUtils');
 describe("AngularPage_assertion",() =>
 {
    beforeEach(() =>{
@@ -10,10 +10,13 @@ describe("AngularPage_assertion",() =>
 
 
       it("Navigation-Bar Assert",() =>{
-        browser.sleep(3000);
+        util.until(Angular.feature);
         expect((Angular.feature).getText()).toEqual('FEATURES');
+        util.until(Angular.Docs);
         expect((Angular.Docs).getText()).toEqual('DOCS');
+        util.until(Angular.Resources);
         expect((Angular.Resources).getText()).toEqual('RESOURCES');
+        util.until(Angular.Events);
         expect((Angular.Events).getText()).toEqual('EVENTS');
       })
 
