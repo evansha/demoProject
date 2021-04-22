@@ -92,7 +92,7 @@ describe("Assert UploadImage Section", () =>
         expect(ConsumptionCalculator.msg1.getText()).toEqual('You have exceeded the daily maximum intake of 400mg.');
 
         //Enter no. of cigarette smoked value
-        ConsumptionCalculator.input2.sendKeys("3");
+        ConsumptionCalculator.input2.sendKeys("4");
 
         //Wait for execution
         browser.wait(function () 

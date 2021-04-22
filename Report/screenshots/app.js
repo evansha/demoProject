@@ -6811,6 +6811,781 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "screenShotFile": "images\\000e00a4-00ec-0024-00f2-0049005d00b4.png",
         "timestamp": 1618397472126,
         "duration": 4303
+    },
+    {
+        "description": "Multiform Assertion|Multiform Assertion",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401257918,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401259485,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00b000f4-0036-00df-00a9-006f00170027.png",
+        "timestamp": 1618401256862,
+        "duration": 13960
+    },
+    {
+        "description": "Searchfilter Assertion|Searchfilter Assertion",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401271882,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401271977,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00b1008f-00b0-000e-00ca-00f2008500b4.png",
+        "timestamp": 1618401271138,
+        "duration": 3006
+    },
+    {
+        "description": "WebTable Assertion|WebTable Assertion",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401274757,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401274884,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\006d00c9-00b0-00ad-0074-00da0031009c.png",
+        "timestamp": 1618401274432,
+        "duration": 2251
+    },
+    {
+        "description": "Signin with invalid username and password and assert the error labels|Assert RegistrationLogin Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401277335,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401277387,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00be006e-00cd-0070-0037-00ed002b000a.png",
+        "timestamp": 1618401276982,
+        "duration": 7891
+    },
+    {
+        "description": "Assert login is successful, and assert the labels shown |Assert RegistrationLogin Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401285465,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401285514,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\001e0090-0076-00fd-00c0-00630099003c.png",
+        "timestamp": 1618401285129,
+        "duration": 9514
+    },
+    {
+        "description": "Assert various search boxes and search result|Assert Scrollable Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401295672,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401295770,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00d20064-00cc-000c-00d4-00f600dd00db.png",
+        "timestamp": 1618401294902,
+        "duration": 2187
+    },
+    {
+        "description": "Assert and upload image|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401297756,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401297808,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\007700d6-00bb-00b1-000f-006e00eb00df.png",
+        "timestamp": 1618401297399,
+        "duration": 1861
+    },
+    {
+        "description": "Normal intake Consumption Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401300136,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401300187,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\003e00e0-00ab-00d8-00a0-00ba00b0002e.png",
+        "timestamp": 1618401299745,
+        "duration": 3325
+    },
+    {
+        "description": "Excess Intake Consumption Calculations|Assert UploadImage Section",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401304040,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401304127,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0014008e-00cf-0086-0020-002e001e00d0.png",
+        "timestamp": 1618401303348,
+        "duration": 2332
+    },
+    {
+        "description": "Assert for valid calculation in Angular js Calculator|Simple Calculator Assertion",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401306699,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401306785,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\004a002f-0098-0089-00e3-00ca003100a7.png",
+        "timestamp": 1618401305953,
+        "duration": 9358
+    },
+    {
+        "description": "Assert for Invalid calculation in Angular js Calculator|Simple Calculator Assertion",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401315914,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401316000,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00f8009c-0001-00d0-0072-0029006300dd.png",
+        "timestamp": 1618401315552,
+        "duration": 1052
+    },
+    {
+        "description": "CustomersTransaction Functionality_check|XYZ_Bank_Customers_Functionalitycheck",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401317238,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401317289,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00640019-0061-0001-00b9-00bd00270042.png",
+        "timestamp": 1618401316890,
+        "duration": 3696
+    },
+    {
+        "description": "Customers Deposit Functionality_check|XYZ_Bank_Customers_Functionalitycheck",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401321594,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401321898,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00cc00ae-0010-0061-00f1-00d300f100b8.png",
+        "timestamp": 1618401320864,
+        "duration": 2254
+    },
+    {
+        "description": "Customers Withdrawal Functionality_check|XYZ_Bank_Customers_Functionalitycheck",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401323734,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401323823,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00e8001b-00e2-00a9-0086-00cf00ed00f9.png",
+        "timestamp": 1618401323372,
+        "duration": 1644
+    },
+    {
+        "description": "Home page Assert|XYZ Bank Homepage Assert",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401325607,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401325694,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\000b005b-0009-000f-0058-007300f8005e.png",
+        "timestamp": 1618401325266,
+        "duration": 907
+    },
+    {
+        "description": "Managers_addCustomers_functionality_Check|XYZ_Bank_Managerlogin_Functionalitycheck",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401326794,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401326881,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00ca00da-0074-0067-003c-003d005700cd.png",
+        "timestamp": 1618401326446,
+        "duration": 4560
+    },
+    {
+        "description": "manager_Accountfunctionality_check|XYZ_Bank_Managerlogin_Functionalitycheck",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://www.globalsqa.com/wp-content/cache/minify/72cc3.default.include.306296.js 0:0 Uncaught ReferenceError: jQuery is not defined",
+                "timestamp": 1618401331650,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 66:977 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401331741,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00320038-00b7-00f8-0047-00f400bf00b2.png",
+        "timestamp": 1618401331298,
+        "duration": 4512
+    },
+    {
+        "description": "manager_Customerfunctionality_check|XYZ_Bank_Managerlogin_Functionalitycheck",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 219:117 Uncaught P: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.",
+                "timestamp": 1618401336560,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00ea00bf-0019-0050-005b-0002001700af.png",
+        "timestamp": 1618401336098,
+        "duration": 4295
+    },
+    {
+        "description": "Get Titles|AngularPage_assertion",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://angular.io/ - ::-webkit-details-marker pseudo element selector is deprecated. Please use ::marker instead. See https://chromestatus.com/feature/6730096436051968 for more details.",
+                "timestamp": 1618401340975,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://angular.io/polyfills-es2015.1a4c72da9816597260d1.js 0 A preload for 'https://angular.io/generated/navigation.json' is found, but is not used because the request headers do not match.",
+                "timestamp": 1618401341118,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://angular.io/polyfills-es2015.1a4c72da9816597260d1.js 0 A preload for 'https://angular.io/generated/docs/index.json' is found, but is not used because the request headers do not match.",
+                "timestamp": 1618401341147,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\007f00b7-00f2-002e-0089-009700cb00a3.png",
+        "timestamp": 1618401340656,
+        "duration": 1116
+    },
+    {
+        "description": "Get Bodytext|AngularPage_assertion",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://angular.io/polyfills-es2015.1a4c72da9816597260d1.js 0 A preload for 'https://angular.io/generated/navigation.json' is found, but is not used because the request headers do not match.",
+                "timestamp": 1618401342308,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://angular.io/polyfills-es2015.1a4c72da9816597260d1.js 0 A preload for 'https://angular.io/generated/docs/index.json' is found, but is not used because the request headers do not match.",
+                "timestamp": 1618401342333,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00dc003a-00f7-005a-00ec-009400450034.png",
+        "timestamp": 1618401342147,
+        "duration": 446
+    },
+    {
+        "description": "Assert Images |AngularPage_assertion",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://angular.io/polyfills-es2015.1a4c72da9816597260d1.js 0 A preload for 'https://angular.io/generated/navigation.json' is found, but is not used because the request headers do not match.",
+                "timestamp": 1618401343071,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://angular.io/polyfills-es2015.1a4c72da9816597260d1.js 0 A preload for 'https://angular.io/generated/docs/index.json' is found, but is not used because the request headers do not match.",
+                "timestamp": 1618401343085,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\001f0067-0010-001d-008e-003900080070.png",
+        "timestamp": 1618401342960,
+        "duration": 361
+    },
+    {
+        "description": "Assert LogoBox|AngularPage_assertion",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://angular.io/polyfills-es2015.1a4c72da9816597260d1.js 0 A preload for 'https://angular.io/generated/navigation.json' is found, but is not used because the request headers do not match.",
+                "timestamp": 1618401343838,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://angular.io/polyfills-es2015.1a4c72da9816597260d1.js 0 A preload for 'https://angular.io/generated/docs/index.json' is found, but is not used because the request headers do not match.",
+                "timestamp": 1618401343855,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\0073002c-0073-001a-0054-0070007500dd.png",
+        "timestamp": 1618401343713,
+        "duration": 363
+    },
+    {
+        "description": "Home page functionalities|ProtoCommerce Homepage Functionality",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "images\\008c0066-00af-0067-001f-005b00630043.png",
+        "timestamp": 1618401344480,
+        "duration": 4917
+    },
+    {
+        "description": "print product details|ProtoCommerce Shop_page Functionality",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://rahulshettyacademy.com/angularpractice/shop - Mixed Content: The page at 'https://rahulshettyacademy.com/angularpractice/shop' was loaded over HTTPS, but requested an insecure element 'http://placehold.it/900x350'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html",
+                "timestamp": 1618401349893,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://rahulshettyacademy.com/angularpractice/shop - Mixed Content: The page at 'https://rahulshettyacademy.com/angularpractice/shop' was loaded over HTTPS, but requested an insecure element 'http://placehold.it/900x350'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html",
+                "timestamp": 1618401349893,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://rahulshettyacademy.com/angularpractice/shop - Mixed Content: The page at 'https://rahulshettyacademy.com/angularpractice/shop' was loaded over HTTPS, but requested an insecure element 'http://placehold.it/900x350'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html",
+                "timestamp": 1618401349894,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://placehold.it/900x350 - Failed to load resource: net::ERR_CERT_DATE_INVALID",
+                "timestamp": 1618401350561,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://rahulshettyacademy.com/angularpractice/shop - Mixed Content: The page at 'https://rahulshettyacademy.com/angularpractice/shop' was loaded over HTTPS, but requested an insecure element 'http://placehold.it/900x350'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html",
+                "timestamp": 1618401350688,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://rahulshettyacademy.com/angularpractice/shop - Mixed Content: The page at 'https://rahulshettyacademy.com/angularpractice/shop' was loaded over HTTPS, but requested an insecure element 'http://placehold.it/900x350'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html",
+                "timestamp": 1618401350689,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://rahulshettyacademy.com/angularpractice/shop - Mixed Content: The page at 'https://rahulshettyacademy.com/angularpractice/shop' was loaded over HTTPS, but requested an insecure element 'http://placehold.it/900x350'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html",
+                "timestamp": 1618401350689,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://placehold.it/900x350 - Failed to load resource: net::ERR_CERT_DATE_INVALID",
+                "timestamp": 1618401350776,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\00040080-0083-0026-00ce-00cc00f700e7.png",
+        "timestamp": 1618401349715,
+        "duration": 1268
+    },
+    {
+        "description": "add to Cart|ProtoCommerce Shop_page Functionality",
+        "passed": true,
+        "pending": false,
+        "os": "Windows",
+        "instanceId": 11548,
+        "browser": {
+            "name": "chrome",
+            "version": "89.0.4389.128"
+        },
+        "message": "Passed",
+        "browserLogs": [
+            {
+                "level": "WARNING",
+                "message": "https://rahulshettyacademy.com/angularpractice/shop - Mixed Content: The page at 'https://rahulshettyacademy.com/angularpractice/shop' was loaded over HTTPS, but requested an insecure element 'http://placehold.it/900x350'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html",
+                "timestamp": 1618401351449,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://rahulshettyacademy.com/angularpractice/shop - Mixed Content: The page at 'https://rahulshettyacademy.com/angularpractice/shop' was loaded over HTTPS, but requested an insecure element 'http://placehold.it/900x350'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html",
+                "timestamp": 1618401351449,
+                "type": ""
+            },
+            {
+                "level": "WARNING",
+                "message": "https://rahulshettyacademy.com/angularpractice/shop - Mixed Content: The page at 'https://rahulshettyacademy.com/angularpractice/shop' was loaded over HTTPS, but requested an insecure element 'http://placehold.it/900x350'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html",
+                "timestamp": 1618401351449,
+                "type": ""
+            },
+            {
+                "level": "SEVERE",
+                "message": "https://placehold.it/900x350 - Failed to load resource: net::ERR_CERT_DATE_INVALID",
+                "timestamp": 1618401352068,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "images\\007d001a-001c-0005-0040-003b0011003a.png",
+        "timestamp": 1618401351264,
+        "duration": 4330
     }
 ];
 
